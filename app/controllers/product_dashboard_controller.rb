@@ -1,0 +1,2 @@
+class ProductDashboardController < ApplicationController
+end
